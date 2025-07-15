@@ -33,7 +33,7 @@
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/joaopolicarpo26?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="https://www.linkedin.com/in/joaopolicarpo26/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/jpolicarpodv?igsh=MXRvM2xlZGZhNDA0Mg%3D%3D&utm_source=qr" target="_blank">
