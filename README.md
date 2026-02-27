@@ -24,9 +24,6 @@
 - 🦷 [API-Odonto](https://github.com/joao-policarpo/API-Odonto)  
   Sistema backend para gestão odontológica usando Java e Spring Boot.
 
-- ⚡ [Ng-Shortcut](https://github.com/joao-policarpo/Ng-Shortcut)  
-  Projeto frontend em Angular para atalhos e organização de links.
-
 ---
 
 ## 🌐 Onde me encontrar
